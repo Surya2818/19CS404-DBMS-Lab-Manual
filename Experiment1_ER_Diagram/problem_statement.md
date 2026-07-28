@@ -25,7 +25,7 @@ FlexiFit Gym wants a database to manage its members, trainers, fitness programs,
 
 ## ER Diagram
 
-![ER Diagram](CityLibraryBookLendingSystem/CityLibraryBookLendingSystem.drawio.png)
+<img width="1270" height="854" alt="Screenshot 2026-07-28 122012" src="https://github.com/user-attachments/assets/9e2e27cc-bf24-4e9c-b46e-fcb3da081bfd" />
 
 ---
 
@@ -90,7 +90,7 @@ The Central Library wants to manage book lending, cultural events, room bookings
 
 ## ER Diagram
 
-![ER Diagram](CityLibraryBookLendingSystem/CityLibraryBookLendingSystem.drawio.png)
+<img width="1270" height="868" alt="Screenshot 2026-07-28 122037" src="https://github.com/user-attachments/assets/fb449ec6-49bc-4651-bd8b-31a7a9e8a594" />
 
 ---
 
@@ -154,7 +154,7 @@ A popular restaurant wants to manage reservations, food ordering, billing, and w
 
 ## ER Diagram
 
-![ER Diagram](RestaurantTableReservation/RestaurantTableReservationAndOrderingSystem.drawio.png)
+<img width="1253" height="859" alt="Screenshot 2026-07-28 122057" src="https://github.com/user-attachments/assets/2085f3a6-ad55-43aa-813f-41f6c3f052ef" />
 
 ---
 
